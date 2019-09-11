@@ -9,8 +9,7 @@ def run_test():
 
 
 def run_app():
-    app.run()
-    pass
+    app.run('172.16.0.4',80)
 
 
 if __name__ == '__main__':
