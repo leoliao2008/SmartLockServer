@@ -9,7 +9,7 @@ def run_test():
 
 
 def run_app():
-    app.run()
+    app.run("193.112.61.174", 5000)
     pass
 
 
